@@ -1,0 +1,19 @@
+.entirePage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(111, 111, 111);
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.theBttns{
+  display: flex;
+  flex-direction: column;
+}
+
+.theBttns span{
+  color: #9cf2bd; font-family: 'Helvetica Neue', sans-serif; font-size: 20px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+
+}
