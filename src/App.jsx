@@ -1,4 +1,4 @@
-import Count from "./assets/components/Count";
+import Count from "./components/Count";
 import "./App.css"
 function App() {
   return (
